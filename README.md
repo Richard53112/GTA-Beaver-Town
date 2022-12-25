@@ -81,8 +81,8 @@
 • หมวดหมู่ : เมนูช่วยเหลือผู้เล่นตอนกดปุ่ม Y
 ✅ เมนูสำหรับ 'อำนวยความสะดวก' ให้กับผู้เล่นตอนกดปุ่ม Y ใช้งานกระเป๋า ( พวก Status, Give  Money, Ticket, GPS ประมาณนี้ )
 ✅ STATUS
-❌ GIVE MONEY
-❌ TICKET
+✅ GIVE MONEY
+✅ TICKET
 ✅ GPS
 ❌ DONATE
 ✅ ANIMATION
