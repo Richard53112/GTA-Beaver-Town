@@ -188,9 +188,9 @@
 
 ```
 • หมวดหมู่ : ระบบคราฟไอเท็ม ( Craft ) 
-❌ ระบบ Craft ไอเท็มหมวดหมู่ Job Item ( Craft Job Item )
-❌ ระบบ Craft ไอเท็มหมวดหมู่ Key ( Craft Key )
-❌ ระบบ Craft ไอเท็มหมวดหมู่ Tools ( Craft Tools )
+✅ ระบบ Craft ไอเท็มหมวดหมู่ Job Item ( Craft Job Item )
+✅ ระบบ Craft ไอเท็มหมวดหมู่ Key ( Craft Key )
+✅ ระบบ Craft ไอเท็มหมวดหมู่ Tools ( Craft Tools )
 ❌ ระบบ Craft อาหาร ( Craft Food )
 ❌ ระบบ Craft อาวุธ ( Craft Weapon )
 ```
